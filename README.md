@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Hi, I am Madhav Prabhu 🙏🏾 Welcome to my Github profile!</samp></h4>
+<h2 align="center"><samp> Hi, I am Madhav Prabhu 🙏🏾 Welcome to my Github profile!</samp></h2>
 
 ```yaml
 
@@ -8,7 +8,9 @@ education:
   - masters: computer engineering @ new york university  
   - bachelors: electronics & telecomm engineering @ mumbai university
 
-experience: former sre @ reliance jio, currently open to work!
+experience: 
+  - reliance jio: site reliability engineer
+  - current: open to work!
 
 languages: python, bash, yaml
 
