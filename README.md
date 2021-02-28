@@ -5,19 +5,22 @@
 pronouns: he, him
 
 education:
-  - masters: computer engineering @ new york university  
-  - bachelors: electronics & telecomm engineering @ mumbai university
+  masters: computer engineering, new york university  
+  bachelors: electronics & telecomm engineering, mumbai university
 
 experience: 
-  - reliance jio: site reliability engineer
-  - current: open to work!
+  reliance jio: site reliability engineer
+  current: open to work!
 
-languages: python, bash, yaml
+languages: 
+  - python
+  - bash 
+  - yaml
 
 technologies:
-  - network engineering: ip suite, sdn, nfv
-  - cloud&devops: aws, gcp, docker, kubernetes, ansible, openshift, helm
-  - machine learning: sklearn, numpy, pandas, tensorflow, keras
+  network_engineering: ip suite, sdn, nfv
+  cloud&devops: aws, gcp, docker, kubernetes, ansible, openshift, helm
+  machine_learning: sklearn, numpy, pandas, tensorflow, keras
   
 ```
 
