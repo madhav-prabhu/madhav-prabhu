@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Hi, I am Madhav Prabhu 🙏🏾 Welcome to my Github profile!</samp></h2>
+<h2 align="center"><samp>Hey there! Welcome to my Github profile 🙏🏾</samp></h2>
 
 ```yaml
 
