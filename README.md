@@ -19,7 +19,7 @@ languages:
 
 technologies:
   network_engineering: ip suite, sdn, nfv
-  cloud&devops: aws, gcp, docker, kubernetes, ansible, openshift, helm
+  cloud_&_devops: aws, gcp, docker, kubernetes, ansible, openshift, helm
   machine_learning: sklearn, numpy, pandas, tensorflow, keras
   
 ```
