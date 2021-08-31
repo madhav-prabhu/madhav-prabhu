@@ -9,8 +9,8 @@ education:
   bachelors: electronics & telecomm engineering, mumbai university
 
 experience: 
+  deloitte: solution specialist
   reliance jio: site reliability engineer
-  current: open to work!
 
 languages: 
   - python
