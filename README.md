@@ -9,7 +9,7 @@ education:
   bachelors: electronics & telecomm engineering, mumbai university
 
 experience: 
-  deloitte: solution specialist
+  cisco: cloud engineer
   reliance jio: site reliability engineer
 
 languages: 
