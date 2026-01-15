@@ -29,7 +29,6 @@ technologies:
 Do visit my [interactive](https://madhav-prabhu.github.io/) webpage
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/madhav-c-prabhu/)
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.prabhu@nyu.edu)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=madhav-prabhu.madhav-prabhu)
